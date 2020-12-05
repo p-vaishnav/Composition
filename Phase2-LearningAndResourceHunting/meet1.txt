@@ -1,0 +1,43 @@
+Idea
+    What we want from our project?
+        Customers
+           -Employee  
+           -Company owner
+           -A guy who want to purchase electronic item
+        Middlemen
+           -Composition
+        Computer Dealer
+           -Sellers of different Computer related Product
+        Technician
+           -Techie
+        
+        
+        Computer Dealer <-> Composition <-> Customers
+        
+        
+Learning
+    -Android Course
+    -Spring Course
+    -AWS//at the end
+
+Resource-Hunting
+    Resources?
+        Mobile-App
+        Programming Language
+        Java
+            -Android
+            -Spring
+        Tools
+            -Android studio
+            -Intellij Spring
+            -Postman API Testing
+            -GitHub
+            -API's
+        Database
+            -Postgres-Sql
+        Payment Gateway
+            -UPI/Debit
+        Geo-Location
+            -Tracking Techie
+        Cloud
+            -AWS
