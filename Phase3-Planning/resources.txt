@@ -1,0 +1,9 @@
+https://www.tutorialspoint.com/software_architecture_design/introduction.htm -> software Architecture
+
+https://www.guru99.com/er-diagram-tutorial-dbms.html -> Er diagram
+
+
+https://www.justinmind.com/blog/functional-specification-documentation-quick-guide-to-making-your-own/->frd
+
+
+https://searchsoftwarequality.techtarget.com/definition/Scrum-sprint -> sprint
